@@ -1,14 +1,27 @@
 body {
   margin: 0;
   padding: 0;
-  background-color: aquamarine;
+  background-color: #e1ebee;
 }
-
+/*SideBar*/
 .Sidebar {
   width: 18vw;
-  height: 100vh;
-  background-color: #fff;
-  border-radius: 25px;
-  padding: 10px;
   margin: 15px;
+  height: 100vh;
+  padding: 10px;
+  border-radius: 25px;
+  background-color: #fff;
+}
+
+/*Title*/
+.Title {
+  margin-left: 25%;
+  float: inline-start;
+}
+
+.Internshipbtn {
+  margin-top: 25px;
+  margin-right: 7%;
+  float: inline-end;
+  border-radius: 5px;
 }
