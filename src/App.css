@@ -2,6 +2,7 @@ body {
   margin: 0;
   padding: 0;
   background-color: #e1ebee;
+  font-family: "Times New Roman", sans-serif;
 }
 /*SideBar*/
 .Sidebar {
@@ -24,4 +25,15 @@ body {
   margin-right: 7%;
   float: inline-end;
   border-radius: 5px;
+}
+
+/*internship insights*/
+.internsights {
+  padding-top: 100px;
+  margin-left: 25%;
+  position: absolute;
+}
+
+.insterntext {
+  display: block;
 }

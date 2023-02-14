@@ -2,9 +2,19 @@ import React from "react";
 
 function Title() {
   return (
-    <div>
-      <h1 className="Title">Internships</h1>
-      <button className="Internshipbtn">Create New Internships</button>
+    <div className="insternships">
+      <div>
+        <h1 className="Title">Internships</h1>
+        <button className="Internshipbtn">Create New Internships</button>
+      </div>
+      <div className="internsights">
+        <h3>Internship Insights</h3>
+        <p>
+          In the thirteenth century the German philosopher Immanuel Kant
+          developed a theory of knowledge about space can be both a priori and
+          synthetic
+        </p>
+      </div>
     </div>
   );
 }
