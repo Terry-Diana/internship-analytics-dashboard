@@ -9,7 +9,7 @@ function Title() {
       </div>
       <div className="internsights">
         <h3>Internship Insights</h3>
-        <p>
+        <p className="interntext">
           In the thirteenth century the German philosopher Immanuel Kant
           developed a theory of knowledge about space can be both a priori and
           synthetic

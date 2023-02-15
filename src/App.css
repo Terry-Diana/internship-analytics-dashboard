@@ -6,7 +6,7 @@ body {
 }
 /*SideBar*/
 .Sidebar {
-  width: 18vw;
+  width: 15vw;
   margin: 15px;
   height: 100vh;
   padding: 10px;
@@ -34,6 +34,12 @@ body {
   position: absolute;
 }
 
-.insterntext {
-  display: block;
+.interntext {
+  display: inline-block;
+  width: 200px;
+  height: 100px;
+  padding: 7px;
+  border-radius: 10px;
+  border: 25px solid #fff;
+  background-color: #e1ebee;
 }
